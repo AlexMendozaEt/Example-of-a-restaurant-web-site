@@ -4,7 +4,7 @@
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
-Welcome to the Restaurant Website Example project! This repository serves as an illustrative example of a webpage designed for a restaurant. Whether you're a beginner honing your web development skills or seeking inspiration for a restaurant website, this project provides a solid foundation.
+Welcome to the Restaurant Website Example project! This repository serves as an illustrative example of a webpage designed for a restaurant.
 
 ## Features
 
